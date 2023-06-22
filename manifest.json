@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Taobao in rubles",
+  "version": "0.1.0",
+  "default_locale": "en",
+  "description": "Extension for convert cost from RMB to RUB"
+}
